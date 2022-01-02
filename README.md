@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 🖥️ I’m looking to collaborate on **OpenSource Projects**
+- 🖥️ I’m looking to collaborate on **OpenCV Projects**
 
 - 📫 How to reach me **nandinitripurana@gmail.com**
 

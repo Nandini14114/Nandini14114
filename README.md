@@ -96,7 +96,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Nandini14114/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nandini14114">
 </a>
 <a href="https://github.com/Nandini14114?tab=followers"><img src="https://img.shields.io/github/followers/Nandini14114?label=Followers&style=social" alt="GitHub Badge"></a>

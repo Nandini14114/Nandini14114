@@ -12,7 +12,7 @@
 
 - 🖥️ I’m looking to collaborate on **OpenCV Projects**
 
-- 📫 How to reach me **nandinitripurana@gmail.com**
+- 📫 How to reach me **tripurananandini@gmail.com**
 
 - ⚡ Fun fact **I like chocalates but i eat less chocolates.**
 

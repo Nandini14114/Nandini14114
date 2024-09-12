@@ -8,9 +8,9 @@
 
 - 👩‍🎓 Bachelor of **Computer Science and Engineer**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Generative AI.**
 
-- 🖥️ I’m looking to collaborate on **OpenCV Projects**
+- 🖥️ I’m looking to collaborate on **AI Engineer Projects**
 
 - 📫 How to reach me **tripurananandini@gmail.com**
 

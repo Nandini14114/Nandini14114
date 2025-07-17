@@ -8,7 +8,7 @@
 
 - 👩‍🎓 Bachelor of **Computer Science and Engineer**
 
-- 🌱 I’m currently learning **Generative AI.**
+- 🌱 Currently Working on **Generative AI.**
 
 - 🖥️ I’m looking to collaborate on **AI Engineer Projects**
 
